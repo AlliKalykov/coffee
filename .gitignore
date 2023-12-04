@@ -1,0 +1,8 @@
+__pycache__/
+venv/
+air_polution.py
+config.py
+loc_bot.log
+location_bot.py
+my_bot.py
+translate_eng_ru.py
